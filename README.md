@@ -66,7 +66,7 @@
       margin: 0 15px;
       text-decoration: none;
       font-weight: bold;
-      transition:0.3s ease, transform 0.3s ease;
+      transition: background 0.3s ease, transform 0.3s ease;
       padding: 8px 12px;
       border-radius: 4px;
     }
@@ -362,5 +362,5 @@
   </div>
   <!-- PIE DE PÁGINA -->
   <footer>
-    <p>© 2025 WINDLIGHT. Todos los derechos reservados.</p>
+    <p>GRACIAS POR VER ESTA PAGINA DEL GRUPO WINDLIGTH.</p>
   </footer>
