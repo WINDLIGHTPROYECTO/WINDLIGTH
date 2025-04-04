@@ -66,7 +66,7 @@
       margin: 0 15px;
       text-decoration: none;
       font-weight: bold;
-      transition: background 0.3s ease, transform 0.3s ease;
+      transition:0.3s ease, transform 0.3s ease;
       padding: 8px 12px;
       border-radius: 4px;
     }
